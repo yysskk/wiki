@@ -1,6 +1,8 @@
 # yysskk wiki
 
-[Home](home.md)
-[About](about.md)
-[Download](download.md)
+[Life]()
+    - [Index](life/index.md) 
+[Work]()
+    - [Index](work/index.md)
+[Blog]()
 
