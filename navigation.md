@@ -4,13 +4,14 @@
 
    - [Index](pages/life/index.md) 
   - - - -
+   -  # 学習
+   - [アルゴリズム](pages/life/learning/algorithm.md)
    - # 金銭
-  - [本業]()
-  - [副業]()
-  - [税金](pages/life/tax.md)
+  - [税金](pages/life/money/tax.md)
+  - [投資](pages/life/money/investment.md)
   - - - -
   - # 健康
-  - [ダイエット](life/index.md)
+  - [ダイエット](pages/life/health/diet.md)
   - - - -
   * # 旅行
     
@@ -20,4 +21,4 @@
 
 - - - -
 [Blog]()
-
+  - [Index](pages/blog/index.md)
