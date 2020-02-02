@@ -60,6 +60,7 @@
     - Graphite
     - Whisper
     - 一定期間後に「間引き(roll up)」や「有効期限切れ(age out)」が発生する
+
 ### 可視化
 - モノシリックなツール(NagiosやSolarWinds NPM)などを使用している場合は付属のダッシュボードがある
 - BIツール
