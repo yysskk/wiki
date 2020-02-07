@@ -3,7 +3,9 @@
 [Life]()
 
   -  # 学習
-  - [集合と写像](pages/life/learning/sets_and_maps.md)
+  - [集合と位相](pages/life/learning/sets_and_topologies.md)
+  - [英語](pages/life/learning/english.md)
+  - - - -
   - # 金銭
   - [税金](pages/life/money/tax.md)
   - [投資](pages/life/money/investment.md)
