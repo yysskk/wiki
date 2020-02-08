@@ -4,6 +4,7 @@
 
   -  # 学習
   - [集合と位相](pages/life/learning/sets_and_topologies.md)
+  - [アルゴリズム](pages/life/learning/algorithm.md)
   - [英語](pages/life/learning/english.md)
   - - - -
   - # 金銭
